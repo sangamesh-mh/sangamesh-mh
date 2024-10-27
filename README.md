@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...javascript
 - 📫 How to reach me ... smhadapad97@gmail.com
 
-- ![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=html&color=%23f06529)
 
 
 <!---
