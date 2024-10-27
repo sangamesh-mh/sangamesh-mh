@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...javascript
 - 📫 How to reach me ... smhadapad97@gmail.com
 
+- ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
 <!---
 sangamesh-mh/sangamesh-mh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
